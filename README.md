@@ -1,8 +1,8 @@
 
-🎓 Étudiant en formation « Développeur avancé & IA » (Titre Professionnel RNCP niveau 6 – équivalent Bac+3/4) avec un socle systèmes & réseaux (TSSR, TAI).
+🎓 Étudiant en formation « Développeur avancé & IA » (Titre Professionnel RNCP niveau 6 – équivalent Bac+3/4) avec un socle systèmes & réseaux (TSSR, TAI)
 
-🔐 Passionné par la cybersécurité, j’aime surtout expérimenter en informatique : explorer différents aspects (dev, infra, réseau), automatiser et renforcer la sécurité (pare-feu, gestion des accès, sauvegardes) sur des environnements Windows/AD et réseau.
+🔐 Passionné par la cybersécurité, j’aime surtout expérimenter en informatique : explorer différents aspects (dev, infra, réseau), automatiser et renforcer la sécurité (pare-feu, gestion des accès, sauvegardes)
 
-📱 J’applique aussi cette démarche au quotidien, par exemple avec GrapheneOS sur mon téléphone et l’utilisation d’OpenVAS pour analyser mon réseau.
+📱 J’applique aussi cette démarche au quotidien, par exemple avec GrapheneOS sur mon téléphone et l’utilisation d’OpenVAS pour analyser mon réseau
 
-📅 Alternance 12 mois dès le 29 juin 2026.
+📅 Alternance 12 mois dès le 29 juin 2026
